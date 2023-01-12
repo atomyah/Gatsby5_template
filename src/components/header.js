@@ -39,7 +39,7 @@ const Header = () => (
     {/* JavaScriptを埋め込み。
         本来はgatsby-browser.jsにonRouteUpdateとして書く。
         しかし新機能Script API.によりページに埋め込むことができるようになった。
-      　※本番サイトアップ時に下記URLを変更する必要アリ 
+      　※本番サイトアップ時に下記URLを変更する必要アリ
     <Script src="http://localhost:8000/script.js" />
     */}
   </>
