@@ -403,6 +403,40 @@ nav {
   max-width: 410px;
 }
 
+/* インフォメーション一覧ページ */
+.info-card {
+  display: flexbox;
+  box-sizing: border-box;
+  width: 80%;
+  padding: 1.2em 0.8em;
+  margin: 0 auto;
+  color: #333;
+  border: 0.5px solid #e9eaea;
+  border-radius: 3px;
+  transition: 0.3s;
+}
+.info-title,
+.info-content {
+  margin: 0;
+
+}
+.info-content {
+  padding: 1em 0;
+  font-size: 1em;
+  font-weight: 300;
+}
+.info-link {
+  margin: 1em 0;
+  font-size: 1em;
+  color: #00b5ad;
+  cursor: pointer;
+  font-weight: 300;
+  font-size: 0.8em;
+}
+.info-link:hover {
+  border-bottom: #00b5ad 1px solid;
+}
+
 
 /* フッター */
 .footer {

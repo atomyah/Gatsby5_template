@@ -5,7 +5,7 @@
   </a>
 </p>
 </p>
-<h2 align="center">
+<h2>
   書籍「Gatsby5 前編 Gatsby FunctionsとGatsby Cloudでつくるコーポレートサイト」Lesson2完了時ソースコード
   <br />
   および書籍「Gatsby5 前編～」、「Gatsby5 後編～」のテンプレート
