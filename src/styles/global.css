@@ -418,7 +418,10 @@ nav {
 .info-title,
 .info-content {
   margin: 0;
-
+}
+.info-title {
+  font-size: 1.1em;
+  font-weight: 400;
 }
 .info-content {
   padding: 1em 0;
